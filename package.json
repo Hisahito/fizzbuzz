@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Hisahito/fizzbuzz#readme",
   "dependencies": {
     "jest": "^26.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
   }
 }
